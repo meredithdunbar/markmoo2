@@ -1,9 +1,4 @@
-<<<<<<< .merge_file_L8sTAw
-I am making new changes
-=======
-=======
 i WHAT AM I DOING ======
->>>>>>> .merge_file_hb24cH
 i markmoo2
 
 
@@ -14,4 +9,4 @@ I will just write anything.
 
 
 
-
+i give up
